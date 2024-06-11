@@ -15,6 +15,7 @@
 }
 
 .button {
+  margin-left: auto;
   justify-content: center;
   align-items: center;
   border: 2px solid grey;
